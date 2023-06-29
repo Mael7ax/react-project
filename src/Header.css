@@ -1,0 +1,18 @@
+.head{
+    display: flex;
+    background: linear-gradient(green 37%,blue 28%,red 35%);
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+}
+.div{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(green 37%,blue,red 35%);
+    border-radius: 50px;
+}
